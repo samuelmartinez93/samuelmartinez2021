@@ -23,3 +23,19 @@ li {
  .titulo {
    background-color: lightskyblue;
  }
+
+
+ body {
+   background-color: rgb(224, 255, 255);
+ }
+
+
+ contacto.html {
+   background-image: url(https://img2.freepng.es/20180407/duw/kisspng-telephone-whatsapp-mobile-phones-solok-customer-se-vektor-5ac974f17bc553.846484561523152113507.jpg);
+   background-color: lightsteelblue;
+ }
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+ body {
+       font-family: 'Fira Sans', sans-serif;
+   }
